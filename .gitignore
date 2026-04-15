@@ -11,3 +11,6 @@ wheels/
 
 # Ignore IntelliJ PyCharm files
 .idea
+
+# Ignore logs
+game_state.jsonl
